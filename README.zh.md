@@ -20,10 +20,10 @@
 
 | 平台 | 下载 | 要求 |
 |------|------|------|
-| Windows | [最新版本](https://gitee.com/KylinLab/RecXia-App/releases/latest/download/RecXia-win-x64.zip) | Windows 10+ |
-| macOS | [最新版本](https://gitee.com/KylinLab/RecXia-App/releases/latest/download/RecXia-mac-x64.dmg) | macOS 11+ |
-| Linux | [最新版本](https://gitee.com/KylinLab/RecXia-App/releases/latest/download/RecXia-linux-x64.tar.gz) | Ubuntu 20.04+ |
-| Android | [最新版本](https://gitee.com/KylinLab/RecXia-App/releases/latest/download/RecXia-android.apk) | Android 8.0+ |
+| Windows | [最新版本](https://gitee.com/KylinLab/RecXia-App/releases/latest) | Windows 10+ |
+| macOS | [最新版本](https://gitee.com/KylinLab/RecXia-App/releases/latest) | macOS 11+ |
+| Linux | [最新版本](https://gitee.com/KylinLab/RecXia-App/releases/latest) | Ubuntu 20.04+ |
+| Android | [最新版本](https://gitee.com/KylinLab/RecXia-App/releases/latest) | Android 8.0+ |
 
 ## 快速开始
 
@@ -34,8 +34,8 @@
 
 ## 文档
 
-- [用户手册](https://kylinlabai.github.io/zh/demos/recxia.html)
-- [官方网站](https://kylinlabai.github.io/zh/demos/recxia.html)
+- [用户手册](./user_manual/user_manual.zh.md)
+- [演示介绍](./demo/demo.zh.md)
 
 ## 联系方式
 

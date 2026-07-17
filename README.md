@@ -20,10 +20,10 @@ AI-powered mock interview recording management system for training institutions.
 
 | Platform | Download | Requirements |
 |----------|----------|--------------|
-| Windows | [Latest Release](https://gitee.com/KylinLab/RecXia-App/releases/latest/download/RecXia-win-x64.zip) | Windows 10+ |
-| macOS | [Latest Release](https://gitee.com/KylinLab/RecXia-App/releases/latest/download/RecXia-mac-x64.dmg) | macOS 11+ |
-| Linux | [Latest Release](https://gitee.com/KylinLab/RecXia-App/releases/latest/download/RecXia-linux-x64.tar.gz) | Ubuntu 20.04+ |
-| Android | [Latest Release](https://gitee.com/KylinLab/RecXia-App/releases/latest/download/RecXia-android.apk) | Android 8.0+ |
+| Windows | [Latest Release](https://github.com/KylinLabAI/RecXia-App/releases/latest) | Windows 10+ |
+| macOS | [Latest Release](https://github.com/KylinLabAI/RecXia-App/releases/latest) | macOS 11+ |
+| Linux | [Latest Release](https://github.com/KylinLabAI/RecXia-App/releases/latest) | Ubuntu 20.04+ |
+| Android | [Latest Release](https://github.com/KylinLabAI/RecXia-App/releases/latest) | Android 8.0+ |
 
 ## Quick Start
 
@@ -34,8 +34,8 @@ AI-powered mock interview recording management system for training institutions.
 
 ## Documentation
 
-- [User Manual](https://kylinlabai.github.io/demos/recxia.html)
-- [Official Website](https://kylinlabai.github.io/demos/recxia.html)
+- [User Manual](./user_manual/user_manual.md)
+- [Demo](./demo/demo.md)
 
 ## Contact
 
